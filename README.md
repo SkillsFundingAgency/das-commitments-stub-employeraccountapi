@@ -1,1 +1,2 @@
-# das-commitments-stub-employeraccountapi
+# sfa-stub-employeraccountapi
+Stubbed Employer Account API for Commitments products dependencies
